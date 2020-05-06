@@ -1,5 +1,5 @@
 #implement a password authentication system
-#Author: E Parrish Miller, CSC 447
+#Author: E Parrish Miller
 
 import sys
 import getpass
